@@ -17,7 +17,7 @@ public class Main {
         System.out.println("While Döngüsü Bitti!");
 
         //Do-While
-        int j = 1;
+        int j = 100;
         do {
             System.out.println(j);
             j += 2;
