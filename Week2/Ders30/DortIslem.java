@@ -1,4 +1,4 @@
-package Ders29;
+package Ders30;
 
 public class DortIslem {
 
